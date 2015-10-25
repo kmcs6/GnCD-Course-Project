@@ -1,4 +1,9 @@
-Step_5_Tidy_Data CODEBOOK
+##Step_5_Tidy_Data CODEBOOK
+
+This brief description of the data is adapted from:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+The data was taken from a group of 30 volunteers (19-48 years) who performed six activities wearing a smartphone (Samsung Galaxy S II) on the waist. The embedded accelerometer and gyroscope captured 3-axial linear acceleration and 3-axial angular velocity. The sensor acceleration signal, which has gravitational and body motion components, was separated into body acceleration and gravity. A vector of features was obtained by calculating variables from the time and frequency domain, which were used to derive mean and standard deviation values, and these are described individually below.
 
 Activity: 6 activities each volunteer performed
 	WALKING

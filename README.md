@@ -4,7 +4,9 @@ This repo contains all files and scripts required for the Project for the Course
 This includes all of the components of the tidy data - tidy data, codebook, and recipe - with the exception of the raw data itself, downloaded from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-This README describes the recipe the run_analysis.R script uses to create the tidy data from the raw data as indicated in the course project instructions. 
+The submitted tidy data file can be read into R with read.table(header=TRUE).
+
+This README describes the recipe the run_analysis.R script used to create the tidy data from the raw data as indicated in the course project instructions. 
 
 (1) The packages required for the script are loaded using library() (assumes they are already installed using install.packages).
 
